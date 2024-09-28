@@ -1,0 +1,10 @@
+package org.jeeva.enums;
+
+public enum ConfigProperties {
+    URL,
+    BROWSER,
+    OVERRIDEREPORTS,
+    PASSEDSTEPSSCREENSHOTS,
+    FAILEDSTEPSSCREENSHOTS,
+    SKIPPEDSTEPSSCREENSHOTS
+}
